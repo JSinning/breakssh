@@ -54,3 +54,5 @@ asi que encontramos dos posible contraseñas para porobar con el usario root
 ![Pasted image 20240615125603](https://github.com/JSinning/breakssh/assets/43380469/45c129d4-97e1-4b3c-a07f-c515a887567a)
 
 asi inicimos secion y hemos consegudo nuestr  maquina de dcokerlabs breakssh
+
+`by juandas13` 
